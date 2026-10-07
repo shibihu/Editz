@@ -1,0 +1,6 @@
+{
+  "name": "ShortsCraft AI - Auto Short-Form Vertical Video Editor",
+  "description": "AI-powered short-form vertical video editor that analyzes voiceovers, auto-syncs animated subtitles, intelligently matches relevant video footage to spoken narration, and exports 9:16 MP4s.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
